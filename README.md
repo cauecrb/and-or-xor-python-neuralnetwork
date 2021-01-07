@@ -1,9 +1,6 @@
 # and-or-xor-phyton-neuralnetwork
 > tres codigos implementando uma rede neural que aprende and, or e xor
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 Codigos implementando uma rede neural, utilizando Python com a biblioteca Numpy.
 Exemplos de redes para problemas lineares e nao lineares, para and e or, é utilizado apenas um "neuronio", enquanto para o xor é aplicada uma rede multicamada
