@@ -19,7 +19,6 @@ Não é necessario instalar, apenas executar os arquivos em uma IDE Python, o al
 Estes códigos demonstram passo a passo como funcina uma rede neural, pode-se fazer testes mudando a taxa de aprendizagem ou testando outros tipos de respostas desejadas.
 
 
-## Meta
 
 Cauê Rafael Burgardt – crburgardt@gmail.com
 
